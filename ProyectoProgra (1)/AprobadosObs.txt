@@ -1,0 +1,8 @@
+Titulo: Proyecto3
+Resumen: ResumenProyecto3
+Propuesta:Propuesta3
+Duracion: 10 meses
+Integrantes: Lalo-Nata-Kim
+Debe corregir: -Presupuesto
+======Felicitaciones su proyecto ha sido aprobado con observaciones=====
+

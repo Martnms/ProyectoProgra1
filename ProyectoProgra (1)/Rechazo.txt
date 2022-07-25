@@ -1,0 +1,9 @@
+Titulo: Proyecto1
+Resumen: ResumenProyecto1
+Duracion: 11 meses
+Integrantes: Fernando-Juan-Gabriel
+Propuesta: Propuesta 1
+Debe corregir:
+-Presupuesto
+-Las horas correspondientes a sus integrantes
+=====Su proyecto ha sido rechazado=====

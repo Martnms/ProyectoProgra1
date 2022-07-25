@@ -1,0 +1,8 @@
+Titulo: Proyecto2
+Resumen: ResumenProyecto2
+Propuesta: Propuesta 2
+Duracion: 12 meses
+Integrantes: Pepe-Rodrigo-Nico
+=====Felicitaciones su proyecto ha sido aprobado=====
+
+
